@@ -138,6 +138,6 @@ This course comprises of 2 weeks.
 
    - [x] Ruslan Salakhutdinov Interview
   
- ## - []  4. Convolutional Neural Networks
+ - [ ]  4. Convolutional Neural Networks
   
- ## - []  5. Sequence Models
+ - [ ]  5. Sequence Models
